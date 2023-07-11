@@ -1,0 +1,32 @@
+.chart {
+  margin-top: 40px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 60px;
+  border-radius: 20px;
+  width: 1000px;
+  height: 359px;
+  background-color: #FFFFFF;
+}
+
+.chartWrapper{
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 60px;
+  padding-right: 30px;
+}
+.chartTitle{
+  color: #000;
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 93px;
+height: 22px;
+top: 319px;
+left: 420px;
+margin-left: 30px;
+padding-bottom: 30px;
+
+}

@@ -1,0 +1,16 @@
+.LoginContainer {
+    display: flex;
+    width: 1440px;
+    height:1024;
+}
+@media screen and (max-width: 767px){
+    .LoginContainer{
+        display:flex
+    }
+}
+@media screen and(min-width:768px){
+    .LoginContainer{
+        display: flex;
+    }
+    
+}

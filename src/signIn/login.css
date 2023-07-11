@@ -1,0 +1,160 @@
+.container2{
+    width: 852px;
+    background: #F5F5F5;
+    height: 1024px;
+    display: flex;
+}
+.wrapper2{
+    
+    place-items: center;
+    align-items: center;
+    margin-left: 244px;
+    
+}
+.top{
+    top: 260px;
+    padding-top: 260px;
+    padding-right: 200px;
+    text-align: left;
+    margin-right: 60px;
+}
+.sign{
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    width: 131px;
+    height: 44px;
+    top: 260px;
+    left: 832px;
+    color: #000000;
+}
+
+.text{
+    width: 161px;
+    height: 19px;
+    top: 309px;
+    left: 832px;
+
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.g-signing{
+    width: 180px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 26px;
+    margin-bottom: 25px;
+
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;  
+}
+
+
+.g{
+    display: flex;
+    width: 385px;
+    justify-content: space-between;
+}
+
+.form1{
+    width: 385px;
+    height: 317px;
+    background-color: #fff;
+    border-radius: 20px;   
+    display: flex; 
+}
+.form-wrapper{
+    padding: 30px;
+}
+
+.label1{
+    color: #000;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+height: 19px;
+}
+
+.form-wrapper input{
+    display: flex;
+width: 325px;
+height: 40px;
+background-color: #EAEAEA;
+border-radius: 10px;
+margin-top: 10px;
+border: none;
+}
+
+.form-wrapper p{
+    color: var(--link, #346BD4);
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 20px 20px 20px 0px;
+
+}
+
+.form-wrapper button{
+    width: 325px;
+height: 40px;
+border-radius: 10px;
+background-color: #000;
+flex-shrink: 0;
+color: #fff;
+cursor: pointer;
+}
+
+.register{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 62px;
+}
+.blue1{
+    color: #858585;
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.blue2{
+    color:#346BD4;
+    font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+
+}
+
+@media(max-width: 767px){
+    .container2{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media(min-width:768px){
+    .container2{
+        width: calc(100%-588px);
+        height: 1024px;
+    }
+}

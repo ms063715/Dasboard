@@ -1,0 +1,131 @@
+.pieChart{
+    margin-left: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    width: 1040px;
+}
+.pieWrapper{
+    width: 480px;
+    height: 256px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    
+
+}
+.schedduleWrapper{
+    width: 480px;
+    height: 256px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    margin-right: 40px;
+}
+.Product{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    width: 125px;
+    height: 22px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.pieHeading1{
+    color: #000;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    width: 162px;
+    height: 22px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.pieCircle{
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 60px;
+    width: 134px;
+    height: 134px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+    
+}
+.pieGraph{
+    display: flex;
+}
+
+.pieUl li{
+    padding: 10px;
+    color: #000;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+list-style: none;
+
+width: 77px;
+height: 17px;
+}
+
+.pieUl li p{
+    font-family: Lato;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+color: #858585;
+}
+
+.lastSection{
+    align-items: center;
+    justify-content: center;
+    width: 251px;
+height: 66px;
+top: 765px;
+left: 940px;
+margin-left: 40px;
+margin-top: 25px;
+}
+.last2{
+    margin-top: 13px;
+    width: 227px;
+height: 66px;
+
+}
+.last{
+    width: 227px;
+    height: 66px;
+}
+.last p{
+    font-family: Lato;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+color: #999999;
+height: 14px;
+
+}
+.last2 p{
+    font-family: Lato;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+color: #999999;
+height: 14px;
+}
+

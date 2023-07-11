@@ -1,0 +1,88 @@
+.topbar{
+    width: 1000px;
+    height: 30px;
+    margin-top: 60px;
+    left:380px;
+    margin-left: 60px;
+}
+.top-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.topLeft{
+    width: 138px;
+    height: 29px;
+    top: 60px;
+    left: 380px;
+}
+.logo{
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.topRight{
+    display: flex;
+    
+    .vector{
+        width: 18px;
+        height: 20px;
+        top: 65px;
+        left: 1303px;
+        color: #000000;
+        padding-right: 30px;
+        padding-left: 20px;
+    }
+    .topAvatar{
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+    }
+    .text{
+        
+        justify-content: space-between;
+        align-items: center;
+        width: 180px;
+        height: 30px;
+        top:60px;
+        left: 1093px;
+        border: 1px;
+        border-radius: 10px;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 17px;
+         letter-spacing: 0em;
+         text-align: left;
+         margin-left: 0px;
+        
+    
+        .search{
+            display: flex;
+            width: 12px;
+            height: 12px;
+            top: 69px;
+            left: 1246px;
+            border: 1px;
+
+
+            .searchIcon{
+                width: 10px;
+                    height: 10px;
+                    top: 69px;
+                    left: 1246px;
+                    border: 1px;
+
+                
+            }
+
+
+
+        }
+
+        }
+
+    
+
+}

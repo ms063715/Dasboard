@@ -1,0 +1,40 @@
+
+.board1{
+    width: 588px;
+    height: 1024px;
+    background-color: #000000;
+
+}
+.wrapperBoard{
+    width: 246px;
+    height: 88px;
+    top: 464px;
+    left: 171px;
+    padding: 464px 171px;
+    
+}
+.board-text{
+    
+    font-family: Montserrat;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 88px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+}
+
+@media(max-width:767px){
+    .board1{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (min-width:768px){
+    .board1{
+        width{
+            width:588px;
+            height:1024px;
+        }
+    }
+}

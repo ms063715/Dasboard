@@ -1,0 +1,75 @@
+.featured{
+    margin-left: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+.featuredItem1{
+    width: 221px;
+    height: 120px;
+    border-radius: 20px;
+    cursor: pointer;
+    background: #DDEFE0;
+    margin-top:40px ;
+    margin-right: 36.84px;
+}
+.featuredItem2{
+    width: 221.05262756347656px;
+    height: 120px;
+    border-radius: 20px;
+    cursor: pointer;
+    background: #F4ECDD;
+    margin-top:40px ;
+    margin-right:36.84px;
+}
+.featuredItem3{
+    width: 221.05262756347656px;
+    height: 120px;
+    border-radius: 20px;
+    cursor: pointer;
+    background: #EFDADA;
+    margin-top:40px ;
+    margin-right: 36.84px;
+}
+.featuredItem4{
+    width: 221.05262756347656px;
+    height: 120px;
+    border-radius: 20px;
+    cursor: pointer;
+    background: #DEE0EF;
+    margin-top:40px ;
+    margin-right: 42.11px;
+}
+.featuredTitle{
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 25px;
+}
+.featuredMoneyContainer{
+    
+display: flex;
+align-items: center;
+margin:5px 25px;
+
+}
+.featuredMoney{
+    font-family: Open Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.featuredIcon{
+    width: 26.39999771118164px;
+    height: 24px;
+   margin-top: 20px;
+    margin-left: 169px;
+
+}

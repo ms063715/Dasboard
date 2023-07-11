@@ -1,0 +1,15 @@
+@media screen and (max-width:1200px){
+    .App{
+        grid-template-columns: 10% 50% auto;
+        overflow-y: scroll;
+    }
+}
+
+@media screen and (max-width:768px){
+    .App{
+        grid-template-columns: 1fr;
+    
+    }
+}
+
+

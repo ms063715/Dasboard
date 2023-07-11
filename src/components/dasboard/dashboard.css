@@ -1,0 +1,29 @@
+.containerDashboard{
+    display: flex;
+    width: 1440px;
+    height: 1024px;
+    top: -786px;
+    left: -720px;
+    background: #F5F5F5;
+
+
+}
+.othersDashboard{
+    width: 1120px;
+
+}
+@media screen and (max-width:1200px){
+    .containerDashboard{
+        grid-template-columns: 10% 50% auto;
+        overflow-y: scroll;
+        
+    }
+}
+
+@media screen and (max-width:768px){
+    .App{
+        grid-template-columns: 1fr;
+    }
+}
+
+
